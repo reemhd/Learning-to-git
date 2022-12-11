@@ -1,4 +1,6 @@
+I wonder if things will go wrong now?
 Adding yet another branch, nothing has gone wrong yet.
 Adding a new branch, I'm sure things will go wrong.
 It looks like there is a lot going on in Github so going to tackle one little bit at a time.
-I wonder if things will go wrong now?
+
+Looks like nothing went wrong, chill.
